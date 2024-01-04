@@ -13,3 +13,10 @@ CompBot is a chatbot designed to receive a comprehension passage and a correspon
 3. **Output:** CompBot responds with the answer to the given question based on the information available in the comprehension passage.
 
 ## Home Page
+![Home Page](https://github.com/kshitijbhatia/Comp-Bot/assets/108986570/63bab8c0-502c-4c36-909d-3679d3f71974)
+
+## Content Page
+![Page 1](https://github.com/kshitijbhatia/Comp-Bot/assets/108986570/724b4a0e-56cc-481a-b2fb-7c237750e5e3)
+
+## Content Page(with Dropdown and Message in Chhatbox)
+![Page 2](https://github.com/kshitijbhatia/Comp-Bot/assets/108986570/e8830efc-0360-4c22-b916-e2fe587a250e)
