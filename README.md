@@ -23,7 +23,7 @@ CompBot is a chatbot designed to receive a comprehension passage and a correspon
 
 ## Adding New Passages
 
-User can add their own passage taht they want to analyze and thus, can extract useful information from that passage.
+User can add their own passage that they want to analyze and thus, can extract useful information from that passage.
 
 ![Page 3](https://github.com/kshitijbhatia/Comp-Bot/assets/108986570/99bfece7-0c60-448c-8eb2-bef3edbdea80)
 
